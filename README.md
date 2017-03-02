@@ -27,3 +27,8 @@ Simple and quick guide for my coding work
       Trick issue when I used the CSS first time. Once the margin result is different from your wireframe. Check here.
       
 
+5. Other Tools
+  - VIM<br>
+    [Cheetsheet](http://www.glump.net/howto/desktop/vim-graphical-cheat-sheet-and-tutorial)
+      
+
