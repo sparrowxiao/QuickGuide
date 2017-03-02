@@ -23,4 +23,7 @@ Simple and quick guide for my coding work
     
   - CSS
     * CSS reset link[http://cssreset.com/]
+    * Collapsing margins MDN[https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Box_Model/Mastering_margin_collapsing]<br>
+      Trick issue when I used the CSS first time. Once the margin result is different from your wireframe. Check here.
+      
 
