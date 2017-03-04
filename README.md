@@ -32,10 +32,21 @@ Simple and quick guide for my coding work
   - SASS
   - Glup
   - Grunt
-      
 
-5. Other Tools
+5. Programming Language
+  - Python<br>
+    I used it for my movie trailer thesis at UGA
+    * [virtualenv](https://virtualenv.pypa.io/en/stable/)
+    * [pafy](https://github.com/mps-youtube/pafy)
+
+6. Huamn Language
+  - Japanese
+  - Korean
+  
+7. Other Tools
   - VIM<br>
     [Cheetsheet](http://www.glump.net/howto/desktop/vim-graphical-cheat-sheet-and-tutorial)
+    
+  
       
 
